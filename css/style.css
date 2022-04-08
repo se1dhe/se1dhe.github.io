@@ -866,7 +866,6 @@ app marcup (after 290px)
 
 ------------------------------ */
 @media (max-width: 290px) {
- 
   .art-app .art-info-bar {
     width: 100vw;
   }
@@ -877,7 +876,6 @@ app marcup (after 230px)
 
 ------------------------------ */
 @media (max-width: 230px) {
- 
   .art-app .art-menu-bar {
     width: 100vw;
   }
