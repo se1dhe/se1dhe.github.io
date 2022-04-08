@@ -581,6 +581,7 @@ app marcup
 
 /* ----- app ----- */
 .art-app {
+  
   padding: 15px;
   background: #191923;
   width: 100vw;
@@ -590,6 +591,8 @@ app marcup
   /* ----- mobile top bar ----- */
 }
 .art-app * {
+  border-radius: 10px;
+
   scrollbar-width: none;
 }
 .art-app ::-webkit-scrollbar {
