@@ -1627,6 +1627,7 @@ content
 
 /* ----- services ----- */
 .art-service-icon-box {
+  border-radius: 10px;
   margin-bottom: 30px;
   position: relative;
   z-index: 1;
@@ -1654,6 +1655,7 @@ content
 
 /* ----- prices ----- */
 .art-price {
+  border-radius: 10px;
   margin-bottom: 30px;
   overflow: hidden;
   position: relative;
@@ -1768,6 +1770,7 @@ content
 }
 
 .art-testimonial {
+  border-radius: 10px;
   position: relative;
   background-size: cover;
   padding: 30px;
