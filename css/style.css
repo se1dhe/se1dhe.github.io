@@ -219,6 +219,8 @@ a:focus {
   margin-bottom: 0;
 }
 
+
+
 /* ----- quote ----- */
 blockquote {
   margin-top: 30px;
@@ -2821,5 +2823,8 @@ html.is-animating .fade-left {
             transform: scale(1);
   }
 }
-
+.header-h6 h6 {
+  font-size: 15px;
+  
+}
 /*# sourceMappingURL=style.css.map */
