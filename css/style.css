@@ -2844,3 +2844,31 @@ html.is-animating .fade-left {
   
 }
 /*# sourceMappingURL=style.css.map */
+.page {
+  display: flex;
+  min-height: 100vh;
+}
+.page_fix {
+  top: 0 !important;
+  position: static !important;
+}
+
+.language {
+  position: fixed;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+}
+
+.language__img {
+  margin: 2px;
+  cursor: pointer;
+  opacity: .5;
+}
+
+.language__img:hover,
+.language__img_active {
+  opacity: 1;
+}
