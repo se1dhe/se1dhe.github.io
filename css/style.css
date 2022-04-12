@@ -2844,14 +2844,31 @@ html.is-animating .fade-left {
   
 }
 /*# sourceMappingURL=style.css.map */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .page {
   display: flex;
   min-height: 100vh;
 }
+
+/* Фиксируем позицию body, которую меняет панель гугла*/
+
 .page_fix {
   top: 0 !important;
   position: static !important;
 }
+
+/* Прячем панель гугла */
+
+.skiptranslate {
+  display: none !important;
+}
+
+/* language */
 
 .language {
   position: fixed;
@@ -2871,4 +2888,11 @@ html.is-animating .fade-left {
 .language__img:hover,
 .language__img_active {
   opacity: 1;
+}
+
+/* content */
+
+.content {
+  text-align: center;
+  margin: auto;
 }
