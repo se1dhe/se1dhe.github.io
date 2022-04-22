@@ -1,4 +1,6 @@
 {
     "contest_bot_version" : "4.1.1",
-    "parfum_bot_version" : "1.6.1"
+    "contest_bot_versionInfo": "Update Telegram Bot API to 6.0.1\nLink: https://t.me/se1dhe_dev/886",
+    "parfum_bot_version" : "1.6.1",
+    "parfum_bot_versionInfo" : "Update Telegram Bot API to 6.0.1\nLink: https://t.me/se1dhe_dev/886"
 }
