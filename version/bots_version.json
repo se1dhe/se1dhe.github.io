@@ -1,6 +1,6 @@
 {
     "contest_bot_version" : "4.1.2",
-    "contest_bot_versionInfo": "Add Broadcast Service\nAdd parametr to check version info",
+    "contest_bot_versionInfo": "Add Broadcast Service;\nAdd parametr to check version info",
     "parfum_bot_version" : "1.6.2",
     "parfum_bot_versionInfo" : "Update Telegram Bot API to 6.0.1\n<code>Link:</code> https://t.me/se1dhe_dev/886",
     "shop_bot_version" : "4.6.1",
